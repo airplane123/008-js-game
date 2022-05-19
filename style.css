@@ -1,10 +1,12 @@
+
+
 .character{
   width: 100px;
   height: 100px;
   position:absolute;
   bottom: 20%;
   left: 10%;
-  background-image: url('mario.webp');
+  background-image: url('dez.webp');
   background-size: cover;
 }
 

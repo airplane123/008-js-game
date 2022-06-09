@@ -6,9 +6,11 @@
   position:absolute;
   bottom: 20%;
   left: 10%;
-  background-image: url('dez.webp');
+  background-image: url('ioioioio.jpg');
   background-size: cover;
 }
+
+
 
 .jump{
   animation: jump 1000ms forwards;
